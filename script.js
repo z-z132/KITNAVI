@@ -74,7 +74,7 @@ const classroomData = [
   {name: "WP12",x:24,y:172, node:"N2"}, 
   {name: "WP21",x:24,y:177, node:"N2"}, 
   {name: "WP22",x:24,y:172, node:"N2"}, 
-  {name: "EP212",x:419,y:174, node:"N15"},
+  {name: "EP21",x:419,y:174, node:"N15"},
   {name: "CIS",x:167,y:111, node:"N10"}
 ];
 
